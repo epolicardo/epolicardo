@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @epolicardo
+- 👋 Hi, I’m @epolicardo, a Software Engineer at Globant
 - 🌱 I’m currently learning as always. I'm learning mostly dotnet related stuffs ...
-- 💞️ I’m looking to collaborate on some OS dotnet project.
-- 📫 You can reach me in my Twitter: @epolicardo.
+- 💞️ I’m looking to collaborate with some OS dotnet project.
+- 📫 You can reach me out on my Twitter @epolicardo or LinkedIn as policardoemiliano
 
 
 <!---
