@@ -25,7 +25,7 @@ I’m a passionate Software Engineer at [Globant](https://www.globant.com/) with
 
 - [LinkedIn: policardoemiliano](https://www.linkedin.com/in/policardoemiliano)
 - [Twitter: @epolicardo](https://twitter.com/epolicardo)
-- 📧 Email: emilianopolicardo@.com (replace with your real email)
+- 📧 Email: emilianopolicardo@.com
 - GitHub: [epolicardo](https://github.com/epolicardo)
 
 ---
